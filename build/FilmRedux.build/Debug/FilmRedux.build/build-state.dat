@@ -1,0 +1,3094 @@
+TFilmRedux
+v7
+r0
+t316994197.032123
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Info.plist" Info.plist
+cStripNIB "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff" icons/preview.tiff
+cCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff" icons/info.tiff
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/ok.png icons/ok.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/converting.png icons/converting.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/delete.icns icons/delete.icns
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/burn.icns icons/burn.icns
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/add.icns icons/add.icns
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/prefs.icns icons/prefs.icns
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/error.png icons/error.png
+cCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff" icons/clearall.tiff
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/ready.png ready.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/burntbottom.png burntbottom.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/grayback.png grayback.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbaraudio.png toolbaraudio.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbaroneoff.png toolbaroneoff.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbarinfo.png toolbarinfo.png
+cCopyStringsFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/mov123 mov123
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/AtomicParsley AtomicParsley
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/topbar.png topbar.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/SetFile SetFile
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/flac.png flac.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/ogg.png ogg.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/wma.png wma.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/mp3.png mp3.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/aiff.png aiff.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/aac.png aac.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/wav.png wav.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/itunesfile.png itunesfile.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/3g.png 3g.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/cd.png cd.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywma.png tinywma.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyitunes.png tinyitunes.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywav.png tinywav.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyflac.png tinyflac.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinycd.png tinycd.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyogg.png tinyogg.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tiny3g.png tiny3g.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/readyunknown.png readyunknown.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/notifications.icns notifications.icns
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_export qt_export
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/3gppass 3gppass
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/COPYING.txt COPYING.txt
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_info qt_info
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar3.png icons/sofar3.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar0.png icons/sofar0.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar1.png icons/sofar1.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar2.png icons/sofar2.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar4.png icons/sofar4.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar5.png icons/sofar5.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar9.png icons/sofar9.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar6.png icons/sofar6.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar7.png icons/sofar7.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar8.png icons/sofar8.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/mediainfo mediainfo
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/Example.csv Example.csv
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/dv.png dv.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/xbox360.png xbox360.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/ps3.png ps3.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/psp.png psp.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/ipod.png ipod.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/wii.png wii.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tivo.png tivo.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/flash.png flash.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/file.png file.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/iphone.png iphone.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyfile.png tinyfile.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyxbox360.png tinyxbox360.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinytivo.png tinytivo.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyflash.png tinyflash.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinypsp.png tinypsp.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyps3.png tinyps3.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinydv.png tinydv.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywii.png tinywii.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyiphone.png tinyiphone.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyappletv.png tinyappletv.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/appletv.png appletv.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyipod.png tinyipod.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/nano.png nano.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinynano.png tinynano.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/mp4pass mp4pass
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/movtoy4m movtoy4m
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/mencoder mencoder
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/.binary_e-egg.jpg .binary_e-egg.jpg
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/.xcode.png .xcode.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/.ib.png .ib.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbarplayground.gif toolbarplayground.gif
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyipodtouch.png tinyipodtouch.png
+cCpResource build/Debug/FilmRedux.app/Contents/Resources/filmredux.icns filmredux.icns
+cCompileC build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux" normal i386
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt main.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt buttons.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt snippets.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt table.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt ipod.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt preview.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/automation.scpt automation.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt growl.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt finder.applescript
+cOSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/mp4.scpt mp4.applescript
+cTouch "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app"
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004AC5F97600000000000000EE
+t1254488438
+s238
+
+N/System/Library/Frameworks/AppleScriptKit.framework/AppleScriptKit
+c000000004A1F2E5D00000000001BBC30
+t1243557469
+s1817648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/.binary_e-egg.jpg
+c000000004CCDD78A000000000001D7B0
+t1288558474
+s120752
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/.ib.png
+c000000004CCDD78A0000000000045BD1
+t1288558474
+s285649
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/.xcode.png
+c000000004CCDD78B0000000000014EEE
+t1288558475
+s85742
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/3g.png
+c000000004CCDD78B00000000000007FE
+t1288558475
+s2046
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/3gppass
+c000000004CCDD78B000000000000041E
+t1288558475
+s1054
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/AtomicParsley
+c000000004CCDD78B000000000008B4B8
+t1288558475
+s570552
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/COPYING.txt
+c000000004CCDD78B0000000000004648
+t1288558475
+s17992
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/InfoPlist.strings
+c000000004D34BAAB00000000000000DE
+t1295301291
+s222
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/Localizable.strings
+c000000004CCDD78B0000000000002321
+t1288558475
+s8993
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/MainMenu.nib
+c000000004C78B2C500000000000000CC
+t1282978501
+s204
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/Example.csv
+c000000004CCDD78B00000000000001A9
+t1288558475
+s425
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/SetFile
+c000000004CCDD78B000000000000B700
+t1288558475
+s46848
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/aac.png
+c000000004CCDD78B0000000000000B2E
+t1288558475
+s2862
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/aiff.png
+c000000004CCDD78B0000000000000B43
+t1288558475
+s2883
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/appletv.png
+c000000004CCDD78B000000000000076E
+t1288558475
+s1902
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/automation.applescript
+c000000004CCDD78B0000000000001E95
+t1288558475
+s7829
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app
+t1295301397
+s102
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Info.plist
+t1288558476
+s2449
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux
+t1295301266
+s13252
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/PkgInfo
+t1288558476
+s8
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.binary_e-egg.jpg
+t1288558476
+s120752
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.ib.png
+t1288558476
+s285649
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.xcode.png
+t1288558476
+s85742
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/3g.png
+t1288558476
+s2046
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/3gppass
+t1288558476
+s1054
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/AtomicParsley
+t1288558476
+s570552
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/COPYING.txt
+t1288558476
+s17992
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1295301397
+s222
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/Localizable.strings
+t1288558476
+s17988
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/MainMenu.nib
+t1282978502
+s170
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Example.csv
+t1288558476
+s425
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/automation.scpt
+t1288558476
+s37832
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt
+t1295301266
+s347732
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt
+t1295301267
+s101816
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt
+t1295301267
+s4118
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt
+t1295301266
+s54860
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt
+t1295301266
+s201748
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/mp4.scpt
+t1295301267
+s54598
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt
+t1295301267
+s43304
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt
+t1295301266
+s83296
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt
+t1295301266
+s79668
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/SetFile
+t1288558476
+s46848
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/aac.png
+t1288558476
+s2862
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/add.icns
+t1295301262
+s4327
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/aiff.png
+t1288558476
+s2883
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/appletv.png
+t1288558476
+s1902
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/burn.icns
+t1295301262
+s46093
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/burntbottom.png
+t1295301263
+s179
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/cd.png
+t1295301263
+s4889
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff
+t1295301262
+s2454
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/converting.png
+t1295301262
+s419
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/delete.icns
+t1295301262
+s4058
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/dv.png
+t1295301263
+s1777
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/error.png
+t1295301262
+s300
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/file.png
+t1295301263
+s2056
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/filmredux.icns
+t1295301263
+s159730
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/flac.png
+t1295301263
+s176
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/flash.png
+t1295301263
+s2121
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/grayback.png
+t1295301263
+s118
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff
+t1295301262
+s2342
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/iphone.png
+t1295301263
+s1636
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ipod.png
+t1295301263
+s1149
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/itunesfile.png
+t1295301263
+s2556
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mediainfo
+t1295301263
+s4010228
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mencoder
+t1295301264
+s16599920
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mov123
+t1295301263
+s92848
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/movtoy4m
+t1295301263
+s69832
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mp3.png
+t1295301263
+s2973
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mp4pass
+t1295301263
+s851
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/nano.png
+t1295301263
+s2043
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/notifications.icns
+t1295301263
+s25506
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ogg.png
+t1295301262
+s1811
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ok.png
+t1295301262
+s483
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/prefs.icns
+t1295301262
+s3909
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff
+t1295301262
+s1596
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ps3.png
+t1295301263
+s1263
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/psp.png
+t1295301263
+s1264
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/qt_export
+t1295301263
+s109408
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/qt_info
+t1295301263
+s97788
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ready.png
+t1295301262
+s441
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/readyunknown.png
+t1295301263
+s492
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar0.png
+t1295301263
+s362
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar1.png
+t1295301263
+s420
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar2.png
+t1295301263
+s435
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar3.png
+t1295301263
+s442
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar4.png
+t1295301263
+s431
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar5.png
+t1295301263
+s411
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar6.png
+t1295301263
+s430
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar7.png
+t1295301263
+s433
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar8.png
+t1295301263
+s432
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar9.png
+t1295301263
+s403
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tiny3g.png
+t1295301263
+s540
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyappletv.png
+t1295301263
+s745
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinycd.png
+t1295301263
+s967
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinydv.png
+t1295301263
+s884
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyfile.png
+t1295301263
+s788
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyflac.png
+t1295301263
+s404
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyflash.png
+t1295301263
+s919
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyiphone.png
+t1295301263
+s638
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyipod.png
+t1295301263
+s591
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyipodtouch.png
+t1295301263
+s3092
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyitunes.png
+t1295301263
+s564
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinynano.png
+t1295301263
+s829
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyogg.png
+t1295301263
+s717
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyps3.png
+t1295301263
+s586
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinypsp.png
+t1295301263
+s517
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinytivo.png
+t1295301263
+s847
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywav.png
+t1295301263
+s327
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywii.png
+t1295301263
+s620
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywma.png
+t1295301263
+s896
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyxbox360.png
+t1295301263
+s1041
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tivo.png
+t1295301263
+s1782
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbaraudio.png
+t1295301263
+s358
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbarinfo.png
+t1295301263
+s619
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbaroneoff.png
+t1295301263
+s329
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbarplayground.gif
+t1295301263
+s244
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/topbar.png
+t1295301263
+s149
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wav.png
+t1295301263
+s2951
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wii.png
+t1295301263
+s1421
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wma.png
+t1295301263
+s8391
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/xbox360.png
+t1295301263
+s2710
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/FilmRedux.LinkFileList
+c000000004D34BA8E000000000000009B
+t1295301262
+s155
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o
+t1295301264
+s3520
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/burntbottom.png
+c000000004CCDD78D00000000000000B3
+t1288558477
+s179
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/buttons.applescript
+c000000004CCDD78D0000000000014F33
+t1288558477
+s85811
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/cd.png
+c000000004CCDD78D0000000000001319
+t1288558477
+s4889
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/dv.png
+c000000004CCDD78D00000000000006F1
+t1288558477
+s1777
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/file.png
+c000000004CCDD78D0000000000000808
+t1288558477
+s2056
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/filmredux.icns
+c000000004CCDD78D0000000000026FF2
+t1288558477
+s159730
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/finder.applescript
+c000000004CCDD78E0000000000005BD4
+t1288558478
+s23508
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flac.png
+c000000004CCDD78E00000000000000B0
+t1288558478
+s176
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flash.png
+c000000004CCDD78E0000000000000849
+t1288558478
+s2121
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/grayback.png
+c000000004CCDD78E0000000000000076
+t1288558478
+s118
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/growl.applescript
+c000000004CCDD78E000000000000027B
+t1288558478
+s635
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/add.icns
+c000000004CCDD78E00000000000010E7
+t1288558478
+s4327
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/burn.icns
+c000000004CCDD78E000000000000B40D
+t1288558478
+s46093
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/clearall.tiff
+c000000004CCDD78E0000000000000996
+t1288558478
+s2454
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/converting.png
+c000000004CCDD78E00000000000001A3
+t1288558478
+s419
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/delete.icns
+c000000004CCDD78E0000000000000FDA
+t1288558478
+s4058
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/error.png
+c000000004CCDD78E000000000000012C
+t1288558478
+s300
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/info.tiff
+c000000004CCDD78E0000000000000926
+t1288558478
+s2342
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/ok.png
+c000000004CCDD78E00000000000001E3
+t1288558478
+s483
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/prefs.icns
+c000000004CCDD78E0000000000000F45
+t1288558478
+s3909
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/preview.tiff
+c000000004CCDD78E000000000000063C
+t1288558478
+s1596
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar0.png
+c000000004CCDD78E000000000000016A
+t1288558478
+s362
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar1.png
+c000000004CCDD78E00000000000001A4
+t1288558478
+s420
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar2.png
+c000000004CCDD78E00000000000001B3
+t1288558478
+s435
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar3.png
+c000000004CCDD78E00000000000001BA
+t1288558478
+s442
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar4.png
+c000000004CCDD78E00000000000001AF
+t1288558478
+s431
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar5.png
+c000000004CCDD78E000000000000019B
+t1288558478
+s411
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar6.png
+c000000004CCDD78E00000000000001AE
+t1288558478
+s430
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar7.png
+c000000004CCDD78E00000000000001B1
+t1288558478
+s433
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar8.png
+c000000004CCDD78E00000000000001B0
+t1288558478
+s432
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar9.png
+c000000004CCDD78E0000000000000193
+t1288558478
+s403
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/iphone.png
+c000000004CCDD78E0000000000000664
+t1288558478
+s1636
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.applescript
+c000000004CCDD78E00000000000034EF
+t1288558478
+s13551
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.png
+c000000004CCDD78E000000000000047D
+t1288558478
+s1149
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/itunesfile.png
+c000000004CCDD78E00000000000009FC
+t1288558478
+s2556
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.applescript
+c000000004CCDD78E000000000000BFAA
+t1288558478
+s49066
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m
+c000000004CCDD78E00000000000000C5
+t1288558478
+s197
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mediainfo
+c000000004CCDD78E00000000003D30F4
+t1288558478
+s4010228
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mencoder
+c000000004CCDD78E0000000000FD4B70
+t1288558478
+s16599920
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mov123
+c000000004CCDD78E0000000000016AB0
+t1288558478
+s92848
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/movtoy4m
+c000000004CCDD78F00000000000110C8
+t1288558479
+s69832
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp3.png
+c000000004CCDD78F0000000000000B9D
+t1288558479
+s2973
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4.applescript
+c000000004D34BA6200000000000034AA
+t1295301218
+s13482
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4pass
+c000000004CCDD78F0000000000000353
+t1288558479
+s851
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/nano.png
+c000000004CCDD78F00000000000007FB
+t1288558479
+s2043
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/notifications.icns
+c000000004CCDD78F00000000000063A2
+t1288558479
+s25506
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ogg.png
+c000000004CCDD78F0000000000000713
+t1288558479
+s1811
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/preview.applescript
+c000000004CCDD78F0000000000002800
+t1288558479
+s10240
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ps3.png
+c000000004CCDD78F00000000000004EF
+t1288558479
+s1263
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/psp.png
+c000000004CCDD78F00000000000004F0
+t1288558479
+s1264
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_export
+c000000004CCDD78F000000000001AB60
+t1288558479
+s109408
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_info
+c000000004CCDD78F0000000000017DFC
+t1288558479
+s97788
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ready.png
+c000000004CCDD78F00000000000001B9
+t1288558479
+s441
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/readyunknown.png
+c000000004CCDD78F00000000000001EC
+t1288558479
+s492
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/snippets.applescript
+c000000004CCDD78F0000000000004E1D
+t1288558479
+s19997
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/table.applescript
+c000000004CCDD78F0000000000004B98
+t1288558479
+s19352
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tiny3g.png
+c000000004CCDD78F000000000000021C
+t1288558479
+s540
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyappletv.png
+c000000004CCDD78F00000000000002E9
+t1288558479
+s745
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinycd.png
+c000000004CCDD78F00000000000003C7
+t1288558479
+s967
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinydv.png
+c000000004CCDD78F0000000000000374
+t1288558479
+s884
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyfile.png
+c000000004CCDD78F0000000000000314
+t1288558479
+s788
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflac.png
+c000000004CCDD78F0000000000000194
+t1288558479
+s404
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflash.png
+c000000004CCDD78F0000000000000397
+t1288558479
+s919
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyiphone.png
+c000000004CCDD78F000000000000027E
+t1288558479
+s638
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipod.png
+c000000004CCDD78F000000000000024F
+t1288558479
+s591
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipodtouch.png
+c000000004CCDD78F0000000000000C14
+t1288558479
+s3092
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyitunes.png
+c000000004CCDD78F0000000000000234
+t1288558479
+s564
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinynano.png
+c000000004CCDD78F000000000000033D
+t1288558479
+s829
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyogg.png
+c000000004CCDD78F00000000000002CD
+t1288558479
+s717
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyps3.png
+c000000004CCDD78F000000000000024A
+t1288558479
+s586
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinypsp.png
+c000000004CCDD78F0000000000000205
+t1288558479
+s517
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinytivo.png
+c000000004CCDD78F000000000000034F
+t1288558479
+s847
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywav.png
+c000000004CCDD78F0000000000000147
+t1288558479
+s327
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywii.png
+c000000004CCDD78F000000000000026C
+t1288558479
+s620
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywma.png
+c000000004CCDD78F0000000000000380
+t1288558479
+s896
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyxbox360.png
+c000000004CCDD78F0000000000000411
+t1288558479
+s1041
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tivo.png
+c000000004CCDD78F00000000000006F6
+t1288558479
+s1782
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaraudio.png
+c000000004CCDD78F0000000000000166
+t1288558479
+s358
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarinfo.png
+c000000004CCDD78F000000000000026B
+t1288558479
+s619
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaroneoff.png
+c000000004CCDD78F0000000000000149
+t1288558479
+s329
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarplayground.gif
+c000000004CCDD78F00000000000000F4
+t1288558479
+s244
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/topbar.png
+c000000004CCDD78F0000000000000095
+t1288558479
+s149
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wav.png
+c000000004CCDD78F0000000000000B87
+t1288558479
+s2951
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wii.png
+c000000004CCDD78F000000000000058D
+t1288558479
+s1421
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wma.png
+c000000004CCDD78F00000000000020C7
+t1288558479
+s8391
+
+N/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/xbox360.png
+c000000004CCDD78F0000000000000A96
+t1288558479
+s2710
+
+N/Users/sosumeh/Developer/SDKs/MacOSX10.5.sdk
+c000000004D1D82FB00000000000000EE
+t1293779707
+s238
+
+N/Users/sosumeh/transcoderredux/FilmRedux/.binary_e-egg.jpg
+c000000004C36885C000000000001D7B0
+t1278642268
+s120752
+
+N/Users/sosumeh/transcoderredux/FilmRedux/.ib.png
+c000000004C36899D0000000000045BD1
+t1278642589
+s285649
+
+N/Users/sosumeh/transcoderredux/FilmRedux/.xcode.png
+c000000004C3689480000000000014EEE
+t1278642504
+s85742
+
+N/Users/sosumeh/transcoderredux/FilmRedux/3g.png
+c000000004C36878A00000000000007FE
+t1278642058
+s2046
+
+N/Users/sosumeh/transcoderredux/FilmRedux/3gppass
+c000000004C368788000000000000041E
+t1278642056
+s1054
+
+N/Users/sosumeh/transcoderredux/FilmRedux/AtomicParsley
+c000000004C368788000000000008B4B8
+t1278642056
+s570552
+
+N/Users/sosumeh/transcoderredux/FilmRedux/COPYING.txt
+c000000004C3687890000000000004648
+t1278642057
+s17992
+
+N/Users/sosumeh/transcoderredux/FilmRedux/English.lproj/InfoPlist.strings
+c000000004C3B87AF00000000000000DE
+t1278969775
+s222
+
+N/Users/sosumeh/transcoderredux/FilmRedux/English.lproj/Localizable.strings
+c000000004C3687880000000000002321
+t1278642056
+s8993
+
+N/Users/sosumeh/transcoderredux/FilmRedux/English.lproj/MainMenu.nib
+c000000004C4A4C5C00000000000000CC
+t1279937628
+s204
+
+N/Users/sosumeh/transcoderredux/FilmRedux/Example.csv
+c000000004C36878800000000000001A9
+t1278642056
+s425
+
+N/Users/sosumeh/transcoderredux/FilmRedux/Localizable.strings
+c000000004C3687880000000000002321
+t1278642056
+s8993
+
+N/Users/sosumeh/transcoderredux/FilmRedux/SetFile
+c000000004C368788000000000000B700
+t1278642056
+s46848
+
+N/Users/sosumeh/transcoderredux/FilmRedux/aac.png
+c000000004C36878A0000000000000B2E
+t1278642058
+s2862
+
+N/Users/sosumeh/transcoderredux/FilmRedux/aiff.png
+c000000004C3687890000000000000B43
+t1278642057
+s2883
+
+N/Users/sosumeh/transcoderredux/FilmRedux/appletv.png
+c000000004C36878A000000000000076E
+t1278642058
+s1902
+
+N/Users/sosumeh/transcoderredux/FilmRedux/automation.applescript
+c000000004C3687890000000000001E95
+t1278642057
+s7829
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/AtomicParsley
+c000000004ABBF4EF000000000008B4D4
+t1253831919
+s570580
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/SetFile
+c000000004ABBF4F1000000000000B710
+t1253831921
+s46864
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/avimerge
+c000000004ABBF4EF0000000000050A80
+t1253831919
+s330368
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/catMovies
+c000000004ABBF4EF0000000000009978
+t1253831919
+s39288
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/dvdauthor
+c000000004ABBF4EF000000000003FE70
+t1253831919
+s261744
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/faac
+c000000004ABBF4EF0000000000012234
+t1253831919
+s74292
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/flattercmd
+c000000004ABBF4EF000000000000C604
+t1253831919
+s50692
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/libfaac.0.dylib
+c000000004ABBF4EF000000000001235C
+t1253831919
+s74588
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/libx264.65.dylib
+c000000004ABBF4EF00000000000AA4B8
+t1253831919
+s697528
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/lsdvd
+c000000004ABBF4EF0000000000033BA4
+t1253831919
+s211876
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mediainfo
+c000000004ABBF4F000000000003D3110
+t1253831920
+s4010256
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mencoder
+c000000004ABBF4F00000000000FD4B70
+t1253831920
+s16599920
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mkisofs
+c000000004ABBF4F000000000000DA330
+t1253831920
+s893744
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mov123
+c000000004ABBF4F00000000000016ACC
+t1253831920
+s92876
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/movtoy4m
+c000000004ABBF4F000000000000103FC
+t1253831920
+s66556
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mp4chaps
+c000000004ABBF4F100000000001E628C
+t1253831921
+s1991308
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/mp4pass
+c000000004ABBF4F10000000000000353
+t1253831921
+s851
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/qt_export
+c000000004ABBF4F1000000000001AB78
+t1253831921
+s109432
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/qt_info
+c000000004ABBF4F10000000000017130
+t1253831921
+s94512
+
+N/Users/sosumeh/transcoderredux/FilmRedux/bin/x264
+c000000004ABBF4F1000000000012C6E8
+t1253831921
+s1230568
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app
+t1279932836
+s102
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Info.plist
+t1279932836
+s2449
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux
+t1279932433
+s17676
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/PkgInfo
+t1279932836
+s8
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.binary_e-egg.jpg
+t1278967452
+s120752
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.ib.png
+t1278967452
+s285649
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/.xcode.png
+t1278967452
+s85742
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/3g.png
+t1278642146
+s2046
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/3gppass
+t1278642146
+s1054
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/AtomicParsley
+t1278642146
+s570552
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/COPYING.txt
+t1278642146
+s17992
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1278971296
+s222
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/Localizable.strings
+t1279932529
+s17988
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/MainMenu.nib
+t1278971556
+s170
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Example.csv
+t1278642146
+s425
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Localizable.strings
+t1278642146
+s17988
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/automation.scpt
+t1278642156
+s37832
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt
+t1278642153
+s347732
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt
+t1278642154
+s101816
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt
+t1278642153
+s4118
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt
+t1278642153
+s54860
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt
+t1278967454
+s201748
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt
+t1278642153
+s43304
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt
+t1278642153
+s83296
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt
+t1278642153
+s79668
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/SetFile
+t1278642146
+s46848
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/aac.png
+t1278642146
+s2862
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/add.icns
+t1278642146
+s4327
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/aiff.png
+t1278642146
+s2883
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/appletv.png
+t1278642146
+s1902
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/avimerge
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/burn.icns
+t1278642146
+s46093
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/burntbottom.png
+t1278642146
+s179
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/catMovies
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/cd.png
+t1278642146
+s4889
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff
+t1278642146
+s2454
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/converting.png
+t1278642146
+s419
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/delete.icns
+t1278642146
+s4058
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/dv.png
+t1278642146
+s1777
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/dvdauthor
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/error.png
+t1278642146
+s300
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/faac
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/file.png
+t1278642146
+s2056
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/filmredux.icns
+t1278971610
+s159730
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/flac.png
+t1278642146
+s176
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/flash.png
+t1278642146
+s2121
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/flattercmd
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/grayback.png
+t1278642146
+s118
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff
+t1278642146
+s2342
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/iphone.png
+t1278642146
+s1636
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ipod.png
+t1278642146
+s1149
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/itunesfile.png
+t1278642146
+s2556
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/lsdvd
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mediainfo
+t1278642146
+s4010228
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mencoder
+t1278642147
+s9249128
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mkisofs
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mov123
+t1278642146
+s92848
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/movtoy4m
+t1278642146
+s69832
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mp3.png
+t1278642146
+s2973
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mp4chaps
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/mp4pass
+t1278642146
+s851
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/nano.png
+t1278642146
+s2043
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/notifications.icns
+t1278642146
+s25506
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ogg.png
+t1278642146
+s1811
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ok.png
+t1278642146
+s483
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/prefs.icns
+t1278642146
+s3909
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff
+t1278642146
+s1596
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ps3.png
+t1278642146
+s1263
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/psp.png
+t1278642146
+s1264
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/qt_export
+t1278642146
+s109408
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/qt_info
+t1278642146
+s97788
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/ready.png
+t1278642146
+s441
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/readyunknown.png
+t1278642146
+s492
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar0.png
+t1278642146
+s362
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar1.png
+t1278642146
+s420
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar2.png
+t1278642146
+s435
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar3.png
+t1278642146
+s442
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar4.png
+t1278642146
+s431
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar5.png
+t1278642146
+s411
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar6.png
+t1278642146
+s430
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar7.png
+t1278642146
+s433
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar8.png
+t1278642146
+s432
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/sofar9.png
+t1278642146
+s403
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tiny3g.png
+t1278642146
+s540
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyappletv.png
+t1278642146
+s745
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinycd.png
+t1278642146
+s967
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinydv.png
+t1278642146
+s884
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyfile.png
+t1278642146
+s788
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyflac.png
+t1278642146
+s404
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyflash.png
+t1278642146
+s919
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyiphone.png
+t1278642146
+s638
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyipod.png
+t1278642146
+s591
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyipodtouch.png
+t1278971296
+s3092
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyitunes.png
+t1278642146
+s564
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinynano.png
+t1278642146
+s829
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyogg.png
+t1278642146
+s717
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyps3.png
+t1278642146
+s586
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinypsp.png
+t1278642146
+s517
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinytivo.png
+t1278642146
+s847
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywav.png
+t1278642146
+s327
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywii.png
+t1278642146
+s620
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinywma.png
+t1278642146
+s896
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tinyxbox360.png
+t1278642146
+s1041
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/tivo.png
+t1278642146
+s1782
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbaraudio.png
+t1278642146
+s358
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbarinfo.png
+t1278642146
+s619
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbaroneoff.png
+t1278642146
+s329
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/toolbarplayground.gif
+t1278971296
+s244
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/topbar.png
+t1278642146
+s149
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wav.png
+t1278642146
+s2951
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wii.png
+t1278642146
+s1421
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/wma.png
+t1278642146
+s8391
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/x264
+t2
+s0
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/xbox360.png
+t1278642146
+s2710
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/FilmRedux.LinkFileList
+c000000004C3687E10000000000000070
+t1278642145
+s112
+
+N/Users/sosumeh/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o
+t1278642147
+s3424
+
+N/Users/sosumeh/transcoderredux/FilmRedux/burntbottom.png
+c000000004C36878800000000000000B3
+t1278642056
+s179
+
+N/Users/sosumeh/transcoderredux/FilmRedux/buttons.applescript
+c000000004C3687880000000000014F33
+t1278642056
+s85811
+
+N/Users/sosumeh/transcoderredux/FilmRedux/cd.png
+c000000004C3687880000000000001319
+t1278642056
+s4889
+
+N/Users/sosumeh/transcoderredux/FilmRedux/dv.png
+c000000004C36878900000000000006F1
+t1278642057
+s1777
+
+N/Users/sosumeh/transcoderredux/FilmRedux/file.png
+c000000004C3687880000000000000808
+t1278642056
+s2056
+
+N/Users/sosumeh/transcoderredux/FilmRedux/filmredux.icns
+c000000004A65FFCC0000000000026FF2
+t1248198604
+s159730
+
+N/Users/sosumeh/transcoderredux/FilmRedux/finder.applescript
+c000000004C3687880000000000005BD4
+t1278642056
+s23508
+
+N/Users/sosumeh/transcoderredux/FilmRedux/flac.png
+c000000004C36878900000000000000B0
+t1278642057
+s176
+
+N/Users/sosumeh/transcoderredux/FilmRedux/flash.png
+c000000004C3687880000000000000849
+t1278642056
+s2121
+
+N/Users/sosumeh/transcoderredux/FilmRedux/grayback.png
+c000000004C3687890000000000000076
+t1278642057
+s118
+
+N/Users/sosumeh/transcoderredux/FilmRedux/growl.applescript
+c000000004C368788000000000000027B
+t1278642056
+s635
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/add.icns
+c000000004C36877700000000000010E7
+t1278642039
+s4327
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/burn.icns
+c000000004C368777000000000000B40D
+t1278642039
+s46093
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/clearall.tiff
+c000000004C3687770000000000000996
+t1278642039
+s2454
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/converting.png
+c000000004C36877700000000000001A3
+t1278642039
+s419
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/delete.icns
+c000000004C3687770000000000000FDA
+t1278642039
+s4058
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/error.png
+c000000004C368777000000000000012C
+t1278642039
+s300
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/info.tiff
+c000000004C3687770000000000000926
+t1278642039
+s2342
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/ok.png
+c000000004C36877700000000000001E3
+t1278642039
+s483
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/prefs.icns
+c000000004C3687770000000000000F45
+t1278642039
+s3909
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/preview.tiff
+c000000004C368777000000000000063C
+t1278642039
+s1596
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar0.png
+c000000004C368777000000000000016A
+t1278642039
+s362
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar1.png
+c000000004C36877700000000000001A4
+t1278642039
+s420
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar2.png
+c000000004C36877700000000000001B3
+t1278642039
+s435
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar3.png
+c000000004C36877700000000000001BA
+t1278642039
+s442
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar4.png
+c000000004C36877700000000000001AF
+t1278642039
+s431
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar5.png
+c000000004C368777000000000000019B
+t1278642039
+s411
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar6.png
+c000000004C36877700000000000001AE
+t1278642039
+s430
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar7.png
+c000000004C36877700000000000001B1
+t1278642039
+s433
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar8.png
+c000000004C36877700000000000001B0
+t1278642039
+s432
+
+N/Users/sosumeh/transcoderredux/FilmRedux/icons/sofar9.png
+c000000004C3687770000000000000193
+t1278642039
+s403
+
+N/Users/sosumeh/transcoderredux/FilmRedux/iphone.png
+c000000004C3687880000000000000664
+t1278642056
+s1636
+
+N/Users/sosumeh/transcoderredux/FilmRedux/ipod.applescript
+c000000004C78B11200000000000034EF
+t1282978066
+s13551
+
+N/Users/sosumeh/transcoderredux/FilmRedux/ipod.png
+c000000004C368789000000000000047D
+t1278642057
+s1149
+
+N/Users/sosumeh/transcoderredux/FilmRedux/itunesfile.png
+c000000004C36878800000000000009FC
+t1278642056
+s2556
+
+N/Users/sosumeh/transcoderredux/FilmRedux/main.applescript
+c000000004C3B7368000000000000BFAA
+t1278964584
+s49066
+
+N/Users/sosumeh/transcoderredux/FilmRedux/main.m
+c000000004C36878800000000000000C5
+t1278642056
+s197
+
+N/Users/sosumeh/transcoderredux/FilmRedux/mediainfo
+c000000004C36878800000000003D30F4
+t1278642056
+s4010228
+
+N/Users/sosumeh/transcoderredux/FilmRedux/mencoder
+c000000004A97075C0000000000FD4B70
+t1251411804
+s16599920
+
+N/Users/sosumeh/transcoderredux/FilmRedux/mov123
+c000000004C3687880000000000016AB0
+t1278642056
+s92848
+
+N/Users/sosumeh/transcoderredux/FilmRedux/movtoy4m
+c000000004C36878800000000000110C8
+t1278642056
+s69832
+
+N/Users/sosumeh/transcoderredux/FilmRedux/mp3.png
+c000000004C3687880000000000000B9D
+t1278642056
+s2973
+
+N/Users/sosumeh/transcoderredux/FilmRedux/mp4pass
+c000000004C3687880000000000000353
+t1278642056
+s851
+
+N/Users/sosumeh/transcoderredux/FilmRedux/nano.png
+c000000004C36878900000000000007FB
+t1278642057
+s2043
+
+N/Users/sosumeh/transcoderredux/FilmRedux/notifications.icns
+c000000004C36878900000000000063A2
+t1278642057
+s25506
+
+N/Users/sosumeh/transcoderredux/FilmRedux/ogg.png
+c000000004C3687890000000000000713
+t1278642057
+s1811
+
+N/Users/sosumeh/transcoderredux/FilmRedux/preview.applescript
+c000000004C3687890000000000002800
+t1278642057
+s10240
+
+N/Users/sosumeh/transcoderredux/FilmRedux/ps3.png
+c000000004C36878900000000000004EF
+t1278642057
+s1263
+
+N/Users/sosumeh/transcoderredux/FilmRedux/psp.png
+c000000004C36878800000000000004F0
+t1278642056
+s1264
+
+N/Users/sosumeh/transcoderredux/FilmRedux/qt_export
+c000000004C368788000000000001AB60
+t1278642056
+s109408
+
+N/Users/sosumeh/transcoderredux/FilmRedux/qt_info
+c000000004C3687890000000000017DFC
+t1278642057
+s97788
+
+N/Users/sosumeh/transcoderredux/FilmRedux/ready.png
+c000000004C36878800000000000001B9
+t1278642056
+s441
+
+N/Users/sosumeh/transcoderredux/FilmRedux/readyunknown.png
+c000000004C36878A00000000000001EC
+t1278642058
+s492
+
+N/Users/sosumeh/transcoderredux/FilmRedux/snippets.applescript
+c000000004C3687890000000000004E1D
+t1278642057
+s19997
+
+N/Users/sosumeh/transcoderredux/FilmRedux/table.applescript
+c000000004C3687890000000000004B98
+t1278642057
+s19352
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tiny3g.png
+c000000004C368788000000000000021C
+t1278642056
+s540
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyappletv.png
+c000000004C36878800000000000002E9
+t1278642056
+s745
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinycd.png
+c000000004C36878900000000000003C7
+t1278642057
+s967
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinydv.png
+c000000004C3687880000000000000374
+t1278642056
+s884
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyfile.png
+c000000004C3687890000000000000314
+t1278642057
+s788
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyflac.png
+c000000004C3687880000000000000194
+t1278642056
+s404
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyflash.png
+c000000004C3687890000000000000397
+t1278642057
+s919
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyiphone.png
+c000000004C368789000000000000027E
+t1278642057
+s638
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyipod.png
+c000000004C368788000000000000024F
+t1278642056
+s591
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyipodtouch.png
+c000000004C3B86760000000000000C14
+t1278969462
+s3092
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyitunes.png
+c000000004C36878A0000000000000234
+t1278642058
+s564
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinynano.png
+c000000004C368788000000000000033D
+t1278642056
+s829
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyogg.png
+c000000004C36878800000000000002CD
+t1278642056
+s717
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyps3.png
+c000000004C368788000000000000024A
+t1278642056
+s586
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinypsp.png
+c000000004C3687890000000000000205
+t1278642057
+s517
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinytivo.png
+c000000004C36878A000000000000034F
+t1278642058
+s847
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinywav.png
+c000000004C3687890000000000000147
+t1278642057
+s327
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinywii.png
+c000000004C368789000000000000026C
+t1278642057
+s620
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinywma.png
+c000000004C3687890000000000000380
+t1278642057
+s896
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tinyxbox360.png
+c000000004C3687890000000000000411
+t1278642057
+s1041
+
+N/Users/sosumeh/transcoderredux/FilmRedux/tivo.png
+c000000004C36878800000000000006F6
+t1278642056
+s1782
+
+N/Users/sosumeh/transcoderredux/FilmRedux/toolbaraudio.png
+c000000004C3687890000000000000166
+t1278642057
+s358
+
+N/Users/sosumeh/transcoderredux/FilmRedux/toolbarinfo.png
+c000000004C368788000000000000026B
+t1278642056
+s619
+
+N/Users/sosumeh/transcoderredux/FilmRedux/toolbaroneoff.png
+c000000004C3687890000000000000149
+t1278642057
+s329
+
+N/Users/sosumeh/transcoderredux/FilmRedux/toolbarplayground.gif
+c000000004C3B846D00000000000000F4
+t1278968941
+s244
+
+N/Users/sosumeh/transcoderredux/FilmRedux/topbar.png
+c000000004C3687880000000000000095
+t1278642056
+s149
+
+N/Users/sosumeh/transcoderredux/FilmRedux/wav.png
+c000000004C3687880000000000000B87
+t1278642056
+s2951
+
+N/Users/sosumeh/transcoderredux/FilmRedux/wii.png
+c000000004C368788000000000000058D
+t1278642056
+s1421
+
+N/Users/sosumeh/transcoderredux/FilmRedux/wma.png
+c000000004C36878800000000000020C7
+t1278642056
+s8391
+
+N/Users/sosumeh/transcoderredux/FilmRedux/xbox360.png
+c000000004C3687880000000000000A96
+t1278642056
+s2710
+
+NInfo.plist
+c000000004CCDD78B00000000000009A0
+t1288558475
+s2464
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316994196#316994196#0(0"0(0#1#0"4300934600#0"0#
+
+CCompileC build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316994064.713850
+e316994064.910999
+r1
+xCompileC
+xbuild/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m316994064#316994064#0(0"0(0#0#90"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m4300934600#1409"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    setenv LANG en_US.US-ASCII    /Users/sosumeh/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Users/sosumeh/Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 "-I/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/FilmRedux.hmap" "-F/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug" "-F/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux" "-I/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/include" "-I/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/DerivedSources/i386" "-I/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/DerivedSources" -c "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.m" -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/main.o /Users/sosumeh/transcoderredux/FilmRedux/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s316994196.958317
+e316994197.027692
+r1
+xCopyStringsFile
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings316994196#316994197#0(0"0(0#0#115"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/InfoPlist.strings4300934600#476"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    setenv ICONV /usr/bin/iconv    /Users/sosumeh/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Localizable.strings Localizable.strings
+r0
+
+CCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff" icons/clearall.tiff
+s316994062.872915
+e316994062.913265
+r1
+xCopyTiffFile
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff
+xicons/clearall.tiff
+lSLF07#2@24"Copy icons/clearall.tiff316994062#316994062#0(0"0(0#0#103"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/clearall.tiff4300934600#357"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icons/clearall.tiff --outdir "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff" icons/info.tiff
+s316994062.813141
+e316994062.867693
+r1
+xCopyTiffFile
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff
+xicons/info.tiff
+lSLF07#2@20"Copy icons/info.tiff316994062#316994062#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/info.tiff4300934600#353"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icons/info.tiff --outdir "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCopyTiffFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff" icons/preview.tiff
+s316994062.781359
+e316994062.873935
+r1
+xCopyTiffFile
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff
+xicons/preview.tiff
+lSLF07#2@23"Copy icons/preview.tiff316994062#316994062#0(0"0(0#0#102"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/preview.tiff5057374660419994624#356"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff icons/preview.tiff --outdir "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCopyTiffFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/clearall.tiff icons/clearall.tiff
+r0
+
+CCopyTiffFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/info.tiff icons/info.tiff
+r0
+
+CCopyTiffFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/preview.tiff icons/preview.tiff
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/.binary_e-egg.jpg .binary_e-egg.jpg
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/.ib.png .ib.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/.xcode.png .xcode.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/3g.png 3g.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/3gppass 3gppass
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/AtomicParsley AtomicParsley
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/AtomicParsley bin/AtomicParsley
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/COPYING.txt COPYING.txt
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/Example.csv Example.csv
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/SetFile SetFile
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/SetFile bin/SetFile
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/aac.png aac.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/add.icns icons/add.icns
+s316994062.870839
+e316994062.972846
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/add.icns
+xicons/add.icns
+lSLF07#2@19"Copy icons/add.icns316994062#316994062#0(0"0(0#0#98"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/add.icns4300934600#487"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/add.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/aiff.png aiff.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/appletv.png appletv.png
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/avimerge bin/avimerge
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/burn.icns icons/burn.icns
+s316994062.870147
+e316994063.018093
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/burn.icns
+xicons/burn.icns
+lSLF07#2@20"Copy icons/burn.icns316994062#316994063#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/burn.icns4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/burn.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/burntbottom.png burntbottom.png
+s316994062.973994
+e316994063.024159
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/burntbottom.png
+xburntbottom.png
+lSLF07#2@20"Copy burntbottom.png316994062#316994063#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/burntbottom.png4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/burntbottom.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/catMovies bin/catMovies
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/cd.png cd.png
+s316994063.024276
+e316994063.071599
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/cd.png
+xcd.png
+lSLF07#2@11"Copy cd.png316994063#316994063#0(0"0(0#0#90"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/cd.png4300934600#479"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/cd.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/converting.png icons/converting.png
+s316994062.868755
+e316994062.930685
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/converting.png
+xicons/converting.png
+lSLF07#2@25"Copy icons/converting.png316994062#316994062#0(0"0(0#0#104"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/converting.png4300934600#493"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/converting.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/delete.icns icons/delete.icns
+s316994062.869449
+e316994062.973153
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/delete.icns
+xicons/delete.icns
+lSLF07#2@22"Copy icons/delete.icns316994062#316994062#0(0"0(0#0#101"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/delete.icns4300934600#490"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/delete.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/dv.png dv.png
+s316994063.145845
+e316994063.174552
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/dv.png
+xdv.png
+lSLF07#2@11"Copy dv.png316994063#316994063#0(0"0(0#0#90"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/dv.png4300934600#479"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/dv.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/dvdauthor bin/dvdauthor
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/error.png icons/error.png
+s316994062.872233
+e316994062.959136
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/error.png
+xicons/error.png
+lSLF07#2@20"Copy icons/error.png316994062#316994062#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/error.png4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/error.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/faac bin/faac
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/file.png file.png
+s316994063.187746
+e316994063.208876
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/file.png
+xfile.png
+lSLF07#2@13"Copy file.png316994063#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/file.png4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/file.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/filmredux.icns filmredux.icns
+s316994063.302962
+e316994063.324991
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/filmredux.icns
+xfilmredux.icns
+lSLF07#2@19"Copy filmredux.icns316994063#316994063#0(0"0(0#0#98"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/filmredux.icns4300934600#487"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/filmredux.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/flac.png flac.png
+s316994062.978824
+e316994063.061626
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/flac.png
+xflac.png
+lSLF07#2@13"Copy flac.png316994062#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flac.png4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flac.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/flash.png flash.png
+s316994063.181773
+e316994063.211849
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/flash.png
+xflash.png
+lSLF07#2@14"Copy flash.png316994063#316994063#0(0"0(0#0#93"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flash.png4300934600#482"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/flash.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/flattercmd bin/flattercmd
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/grayback.png grayback.png
+s316994062.974655
+e316994063.005603
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/grayback.png
+xgrayback.png
+lSLF07#2@17"Copy grayback.png316994062#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/grayback.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/grayback.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/iphone.png iphone.png
+s316994063.189684
+e316994063.220993
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/iphone.png
+xiphone.png
+lSLF07#2@15"Copy iphone.png316994063#316994063#0(0"0(0#0#94"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/iphone.png4300934600#483"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/iphone.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/ipod.png ipod.png
+s316994063.171986
+e316994063.187661
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/ipod.png
+xipod.png
+lSLF07#2@13"Copy ipod.png316994063#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.png4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/itunesfile.png itunesfile.png
+s316994063.018184
+e316994063.052985
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/itunesfile.png
+xitunesfile.png
+lSLF07#2@19"Copy itunesfile.png316994063#316994063#0(0"0(0#0#98"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/itunesfile.png4300934600#487"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/itunesfile.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/lsdvd bin/lsdvd
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mediainfo bin/mediainfo
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mediainfo mediainfo
+s316994063.141245
+e316994063.711159
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/mediainfo
+xmediainfo
+lSLF07#2@14"Copy mediainfo316994063#316994063#0(0"0(0#0#93"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mediainfo4300934600#482"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mediainfo" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mencoder bin/mencoder
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mencoder mencoder
+s316994063.272645
+e316994064.713634
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/mencoder
+xmencoder
+lSLF07#2@13"Copy mencoder316994063#316994064#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mencoder4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mencoder" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mkisofs bin/mkisofs
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mov123 bin/mov123
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mov123 mov123
+s316994062.977448
+e316994063.091139
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/mov123
+xmov123
+lSLF07#2@11"Copy mov123316994062#316994063#0(0"0(0#0#90"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mov1234300934600#479"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mov123" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/movtoy4m bin/movtoy4m
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/movtoy4m movtoy4m
+s316994063.264353
+e316994063.288353
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/movtoy4m
+xmovtoy4m
+lSLF07#2@13"Copy movtoy4m316994063#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/movtoy4m4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/movtoy4m" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mp3.png mp3.png
+s316994063.005712
+e316994063.048450
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/mp3.png
+xmp3.png
+lSLF07#2@12"Copy mp3.png316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp3.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp3.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mp4chaps bin/mp4chaps
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mp4pass bin/mp4pass
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/mp4pass mp4pass
+s316994063.263435
+e316994063.288235
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/mp4pass
+xmp4pass
+lSLF07#2@12"Copy mp4pass316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4pass4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4pass" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/nano.png nano.png
+s316994063.246580
+e316994063.287983
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/nano.png
+xnano.png
+lSLF07#2@13"Copy nano.png316994063#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/nano.png4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/nano.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/notifications.icns notifications.icns
+s316994063.069375
+e316994063.141110
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/notifications.icns
+xnotifications.icns
+lSLF07#2@23"Copy notifications.icns316994063#316994063#0(0"0(0#0#102"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/notifications.icns4300934600#491"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/notifications.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/ogg.png ogg.png
+s316994062.981834
+e316994062.988762
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/ogg.png
+xogg.png
+lSLF07#2@12"Copy ogg.png316994062#316994062#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ogg.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ogg.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/ok.png icons/ok.png
+s316994062.867899
+e316994062.971850
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/ok.png
+xicons/ok.png
+lSLF07#2@17"Copy icons/ok.png316994062#316994062#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/ok.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/ok.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/prefs.icns icons/prefs.icns
+s316994062.871519
+e316994062.959783
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/prefs.icns
+xicons/prefs.icns
+lSLF07#2@21"Copy icons/prefs.icns316994062#316994062#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/prefs.icns4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/prefs.icns" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/ps3.png ps3.png
+s316994063.153723
+e316994063.191643
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/ps3.png
+xps3.png
+lSLF07#2@12"Copy ps3.png316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ps3.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ps3.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/psp.png psp.png
+s316994063.162104
+e316994063.191777
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/psp.png
+xpsp.png
+lSLF07#2@12"Copy psp.png316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/psp.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/psp.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_export bin/qt_export
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_export qt_export
+s316994063.071693
+e316994063.244327
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/qt_export
+xqt_export
+lSLF07#2@14"Copy qt_export316994063#316994063#0(0"0(0#0#93"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_export4300934600#482"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_export" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_info bin/qt_info
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/qt_info qt_info
+s316994063.082411
+e316994063.127514
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/qt_info
+xqt_info
+lSLF07#2@12"Copy qt_info316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_info4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/qt_info" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/ready.png ready.png
+s316994062.973231
+e316994062.981692
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/ready.png
+xready.png
+lSLF07#2@14"Copy ready.png316994062#316994062#0(0"0(0#0#93"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ready.png4300934600#482"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ready.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/readyunknown.png readyunknown.png
+s316994063.066547
+e316994063.097878
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/readyunknown.png
+xreadyunknown.png
+lSLF07#2@21"Copy readyunknown.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/readyunknown.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/readyunknown.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar0.png icons/sofar0.png
+s316994063.091232
+e316994063.151369
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar0.png
+xicons/sofar0.png
+lSLF07#2@21"Copy icons/sofar0.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar0.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar0.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar1.png icons/sofar1.png
+s316994063.097991
+e316994063.153476
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar1.png
+xicons/sofar1.png
+lSLF07#2@21"Copy icons/sofar1.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar1.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar1.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar2.png icons/sofar2.png
+s316994063.102771
+e316994063.145655
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar2.png
+xicons/sofar2.png
+lSLF07#2@21"Copy icons/sofar2.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar2.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar2.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar3.png icons/sofar3.png
+s316994063.089062
+e316994063.115799
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar3.png
+xicons/sofar3.png
+lSLF07#2@21"Copy icons/sofar3.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar3.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar3.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar4.png icons/sofar4.png
+s316994063.110719
+e316994063.138657
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar4.png
+xicons/sofar4.png
+lSLF07#2@21"Copy icons/sofar4.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar4.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar4.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar5.png icons/sofar5.png
+s316994063.116168
+e316994063.129669
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar5.png
+xicons/sofar5.png
+lSLF07#2@21"Copy icons/sofar5.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar5.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar5.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar6.png icons/sofar6.png
+s316994063.127601
+e316994063.181676
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar6.png
+xicons/sofar6.png
+lSLF07#2@21"Copy icons/sofar6.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar6.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar6.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar7.png icons/sofar7.png
+s316994063.129755
+e316994063.187524
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar7.png
+xicons/sofar7.png
+lSLF07#2@21"Copy icons/sofar7.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar7.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar7.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar8.png icons/sofar8.png
+s316994063.138752
+e316994063.174700
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar8.png
+xicons/sofar8.png
+lSLF07#2@21"Copy icons/sofar8.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar8.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar8.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/sofar9.png icons/sofar9.png
+s316994063.124931
+e316994063.161997
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/sofar9.png
+xicons/sofar9.png
+lSLF07#2@21"Copy icons/sofar9.png316994063#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar9.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/icons/sofar9.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tiny3g.png tiny3g.png
+s316994063.064486
+e316994063.102492
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tiny3g.png
+xtiny3g.png
+lSLF07#2@15"Copy tiny3g.png316994063#316994063#0(0"0(0#0#94"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tiny3g.png4300934600#483"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tiny3g.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyappletv.png tinyappletv.png
+s316994063.245132
+e316994063.283499
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyappletv.png
+xtinyappletv.png
+lSLF07#2@20"Copy tinyappletv.png316994063#316994063#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyappletv.png4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyappletv.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinycd.png tinycd.png
+s316994063.053126
+e316994063.088962
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinycd.png
+xtinycd.png
+lSLF07#2@15"Copy tinycd.png316994063#316994063#0(0"0(0#0#94"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinycd.png4300934600#483"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinycd.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinydv.png tinydv.png
+s316994063.216108
+e316994063.244693
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinydv.png
+xtinydv.png
+lSLF07#2@15"Copy tinydv.png316994063#316994063#0(0"0(0#0#94"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinydv.png4300934600#483"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinydv.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyfile.png tinyfile.png
+s316994063.191853
+e316994063.244061
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyfile.png
+xtinyfile.png
+lSLF07#2@17"Copy tinyfile.png316994063#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyfile.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyfile.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyflac.png tinyflac.png
+s316994063.048543
+e316994063.082211
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyflac.png
+xtinyflac.png
+lSLF07#2@17"Copy tinyflac.png316994063#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflac.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflac.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyflash.png tinyflash.png
+s316994063.201502
+e316994063.244957
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyflash.png
+xtinyflash.png
+lSLF07#2@18"Copy tinyflash.png316994063#316994063#0(0"0(0#0#97"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflash.png4300934600#486"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyflash.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyiphone.png tinyiphone.png
+s316994063.238702
+e316994063.288474
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyiphone.png
+xtinyiphone.png
+lSLF07#2@19"Copy tinyiphone.png316994063#316994063#0(0"0(0#0#98"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyiphone.png4300934600#487"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyiphone.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyipod.png tinyipod.png
+s316994063.245887
+e316994063.287602
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyipod.png
+xtinyipod.png
+lSLF07#2@17"Copy tinyipod.png316994063#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipod.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipod.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyipodtouch.png tinyipodtouch.png
+s316994063.288559
+e316994063.305311
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyipodtouch.png
+xtinyipodtouch.png
+lSLF07#2@22"Copy tinyipodtouch.png316994063#316994063#0(0"0(0#0#101"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipodtouch.png4300934600#490"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyipodtouch.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyitunes.png tinyitunes.png
+s316994063.034202
+e316994063.124832
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyitunes.png
+xtinyitunes.png
+lSLF07#2@19"Copy tinyitunes.png316994063#316994063#0(0"0(0#0#98"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyitunes.png4300934600#487"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyitunes.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinynano.png tinynano.png
+s316994063.247227
+e316994063.288113
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinynano.png
+xtinynano.png
+lSLF07#2@17"Copy tinynano.png316994063#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinynano.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinynano.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyogg.png tinyogg.png
+s316994063.061733
+e316994063.110618
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyogg.png
+xtinyogg.png
+lSLF07#2@16"Copy tinyogg.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyogg.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyogg.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyps3.png tinyps3.png
+s316994063.211936
+e316994063.244201
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyps3.png
+xtinyps3.png
+lSLF07#2@16"Copy tinyps3.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyps3.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyps3.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinypsp.png tinypsp.png
+s316994063.208978
+e316994063.244447
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinypsp.png
+xtinypsp.png
+lSLF07#2@16"Copy tinypsp.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinypsp.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinypsp.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinytivo.png tinytivo.png
+s316994063.197974
+e316994063.220847
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinytivo.png
+xtinytivo.png
+lSLF07#2@17"Copy tinytivo.png316994063#316994063#0(0"0(0#0#96"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinytivo.png4300934600#485"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinytivo.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywav.png tinywav.png
+s316994063.040293
+e316994063.244572
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinywav.png
+xtinywav.png
+lSLF07#2@16"Copy tinywav.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywav.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywav.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywii.png tinywii.png
+s316994063.221076
+e316994063.244826
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinywii.png
+xtinywii.png
+lSLF07#2@16"Copy tinywii.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywii.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywii.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinywma.png tinywma.png
+s316994063.032188
+e316994063.064356
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinywma.png
+xtinywma.png
+lSLF07#2@16"Copy tinywma.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywma.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinywma.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tinyxbox360.png tinyxbox360.png
+s316994063.194625
+e316994063.216011
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tinyxbox360.png
+xtinyxbox360.png
+lSLF07#2@20"Copy tinyxbox360.png316994063#316994063#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyxbox360.png4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tinyxbox360.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/tivo.png tivo.png
+s316994063.177309
+e316994063.201409
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/tivo.png
+xtivo.png
+lSLF07#2@13"Copy tivo.png316994063#316994063#0(0"0(0#0#92"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tivo.png4300934600#481"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/tivo.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbaraudio.png toolbaraudio.png
+s316994062.975359
+e316994063.040199
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/toolbaraudio.png
+xtoolbaraudio.png
+lSLF07#2@21"Copy toolbaraudio.png316994062#316994063#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaraudio.png4300934600#489"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaraudio.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbarinfo.png toolbarinfo.png
+s316994062.976657
+e316994063.010657
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/toolbarinfo.png
+xtoolbarinfo.png
+lSLF07#2@20"Copy toolbarinfo.png316994062#316994063#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarinfo.png4300934600#488"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarinfo.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbaroneoff.png toolbaroneoff.png
+s316994062.976009
+e316994063.034095
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/toolbaroneoff.png
+xtoolbaroneoff.png
+lSLF07#2@22"Copy toolbaroneoff.png316994062#316994063#0(0"0(0#0#101"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaroneoff.png4300934600#490"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbaroneoff.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/toolbarplayground.gif toolbarplayground.gif
+s316994063.276663
+e316994063.305455
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/toolbarplayground.gif
+xtoolbarplayground.gif
+lSLF07#2@26"Copy toolbarplayground.gif316994063#316994063#0(0"0(0#0#105"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarplayground.gif4300934600#494"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/toolbarplayground.gif" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/topbar.png topbar.png
+s316994062.978144
+e316994063.032096
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/topbar.png
+xtopbar.png
+lSLF07#2@15"Copy topbar.png316994062#316994063#0(0"0(0#0#94"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/topbar.png4300934600#483"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/topbar.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/wav.png wav.png
+s316994063.010818
+e316994063.069286
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/wav.png
+xwav.png
+lSLF07#2@12"Copy wav.png316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wav.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wav.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/wii.png wii.png
+s316994063.174939
+e316994063.197886
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/wii.png
+xwii.png
+lSLF07#2@12"Copy wii.png316994063#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wii.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wii.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/wma.png wma.png
+s316994062.988868
+e316994063.066464
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/wma.png
+xwma.png
+lSLF07#2@12"Copy wma.png316994062#316994063#0(0"0(0#0#91"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wma.png4300934600#480"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/wma.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/x264 bin/x264
+r0
+
+CCpResource build/Debug/FilmRedux.app/Contents/Resources/xbox360.png xbox360.png
+s316994063.151454
+e316994063.171880
+r1
+xCpResource
+xbuild/Debug/FilmRedux.app/Contents/Resources/xbox360.png
+xxbox360.png
+lSLF07#2@16"Copy xbox360.png316994063#316994063#0(0"0(0#0#95"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/xbox360.png4300934600#484"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /Users/sosumeh/Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/xbox360.png" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources"0#
+
+CLd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux" normal i386
+s316994064.911115
+e316994066.064053
+r1
+xLd
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux
+xnormal
+xi386
+lSLF07#2@139"Link /Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux316994064#316994066#0(0"0(0#0#0"4300934600#1017"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Users/sosumeh/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Users/sosumeh/Developer/SDKs/MacOSX10.5.sdk "-L/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug" "-L/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/bin" "-F/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug" "-F/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux" -filelist "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/FilmRedux.build/Debug/FilmRedux.build/Objects-normal/i386/FilmRedux.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux"0#
+
+CLd /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/MacOS/FilmRedux normal i386
+r0
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/automation.scpt automation.applescript
+r0
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt buttons.applescript
+s316994066.064958
+e316994066.559871
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt
+xbuttons.applescript
+lSLF07#2@27"Compile buttons.applescript316994066#316994066#0(0"0(0#0#103"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/buttons.applescript4300934600#474"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U buttons.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/buttons.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/buttons.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt finder.applescript
+s316994067.004977
+e316994067.207677
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt
+xfinder.applescript
+lSLF07#2@26"Compile finder.applescript316994067#316994067#0(0"0(0#0#102"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/finder.applescript4300934600#471"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U finder.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/finder.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/finder.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt growl.applescript
+s316994066.970209
+e316994067.124823
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt
+xgrowl.applescript
+lSLF07#2@25"Compile growl.applescript316994066#316994067#0(0"0(0#0#101"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/growl.applescript4300934600#468"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U growl.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/growl.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/growl.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt ipod.applescript
+s316994066.779574
+e316994066.970072
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt
+xipod.applescript
+lSLF07#2@24"Compile ipod.applescript316994066#316994066#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.applescript4300934600#465"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U ipod.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/ipod.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/ipod.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt main.applescript
+s316994066.064158
+e316994066.573224
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt
+xmain.applescript
+lSLF07#2@24"Compile main.applescript316994066#316994066#0(0"0(0#0#100"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.applescript4300934600#465"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U main.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/main.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/main.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/mp4.scpt mp4.applescript
+s316994067.124941
+e316994067.293655
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/mp4.scpt
+xmp4.applescript
+lSLF07#2@23"Compile mp4.applescript316994067#316994067#0(0"0(0#0#99"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4.applescript4300934600#462"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U mp4.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/mp4.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/mp4.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt preview.applescript
+s316994066.791531
+e316994067.004875
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt
+xpreview.applescript
+lSLF07#2@27"Compile preview.applescript316994066#316994067#0(0"0(0#0#103"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/preview.applescript4300934600#474"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U preview.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/preview.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/preview.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt snippets.applescript
+s316994066.560041
+e316994066.791427
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt
+xsnippets.applescript
+lSLF07#2@28"Compile snippets.applescript316994066#316994066#0(0"0(0#0#104"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/snippets.applescript4300934600#477"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U snippets.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/snippets.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/snippets.applescript"0#
+
+COSACompile build/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt table.applescript
+s316994066.573332
+e316994066.779459
+r1
+xOSACompile
+xbuild/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt
+xtable.applescript
+lSLF07#2@25"Compile table.applescript316994066#316994066#0(0"0(0#0#101"/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/table.applescript4300934600#468"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U table.applescript -o "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Resources/Scripts/table.scpt" "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/table.applescript"0#
+
+CProcessInfoPlistFile "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app/Contents/Info.plist Info.plist
+r0
+
+CStripNIB "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/English.lproj/MainMenu.nib"
+r0
+
+CStripNIB /Users/sosumeh/transcoderredux/FilmRedux/English.lproj/MainMenu.nib
+r0
+
+CTouch "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app"
+s316994197.028565
+e316994197.032044
+r1
+xTouch
+x/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app
+lSLF07#2@115"Touch /Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app316994197#316994197#0(0"0(0#0#0"4300934600#227"    cd "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux"    /usr/bin/touch -c "/Users/sosumeh/Desktop/stuff2/untitled folder/Stuff/tcrdx/transcoderredux/FilmRedux/build/Debug/FilmRedux.app"0#
+
+CTouch /Users/sosumeh/transcoderredux/FilmRedux/build/Debug/FilmRedux.app
+r0
+
