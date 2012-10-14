@@ -324,6 +324,16 @@ on autocrop()
 	return {croptop, cropbottom, cropleft, cropright}
 end autocrop
 
+to switchText from t to r instead of s
+	set d to text item delimiters
+	set text item delimiters to s
+	set t to t's text items
+	set text item delimiters to r
+	tell t to set t to item 1 & ({""} & rest)
+	set text item delimiters to d
+	t
+end switchText
+
 on advanceds()
 	tell tab view item "advancedoneoffbox" of tab view "advancedbox" of window "advanced"
 		set skipsec to contents of slider "ss"
@@ -390,10 +400,10 @@ on advanceds()
 		
 		
 		if my commadecimal() then
-			set gamma to (switchText from gamma to "." instead of ",")
-			set brightness to (switchText from brightness to "." instead of ",")
-			set contrast to (switchText from contrast to "." instead of ",")
-			set saturation to (switchText from saturation to "." instead of ",")
+			set gamma to (my switchText from gamma to "." instead of ",")
+			set brightness to (my switchText from brightness to "." instead of ",")
+			set contrast to (my switchText from contrast to "." instead of ",")
+			set saturation to (my switchText from saturation to "." instead of ",")
 		end if
 		if {gamma, brightness, contrast, saturation} is not {"1.0", "0.0", "1.0", "1.0"} then
 			set vfilters2 to ((",eq2=" & gamma & ":" & contrast & ":" & brightness & ":" & saturation) & vfilters2)
@@ -449,7 +459,7 @@ on advanceds()
 			else
 				set volwork to volslider as string
 				
-				if my commadecimal() then set volwork to (switchText from volwork to "." instead of ",")
+				if my commadecimal() then set volwork to (my switchText from volwork to "." instead of ",")
 				if afilters is " " then
 					set afilters to " -af volume=" & volwork
 				else
