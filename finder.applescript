@@ -666,7 +666,11 @@ on getfps(fpshalf)
 	
 	set AppleScript's text item delimiters to space
 	set forcefps1 to contents of combo box "fps" of tab view item "advancedvideobox" of tab view "advancedbox" of window "advanced"
-	set forcefps to first text item of forcefps1
+	try
+		set forcefps to first text item of forcefps1
+	on error
+		set forcefps to ""
+	end try
 	
 	if forcefps is "" or forcefps is (localized string "Auto") then
 		--FPS SANITY
