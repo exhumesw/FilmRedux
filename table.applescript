@@ -165,9 +165,9 @@ on quickinfo(theItem, fullstarttime, justdur)
 				set origheight to (origheight as integer)
 				if originterlacing2 is "2:3 Pulldown" then set origfps to "23.976"
 				if commadecimal then
-					set origsar to (switchText from origsar to "," instead of ".") as number
-					set origPAR to (switchText from origPAR to "," instead of ".") as number
-					set origfps to (switchText from origfps to "," instead of ".") as number
+					set origsar to (my switchText from origsar to "," instead of ".") as number
+					set origPAR to (my switchText from origPAR to "," instead of ".") as number
+					set origfps to (my switchText from origfps to "," instead of ".") as number
 				else
 					set origsar to (origsar as number)
 					set origPAR to (origPAR as number)
